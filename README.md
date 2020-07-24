@@ -1,0 +1,2 @@
+# terrypractice
+Terry practice projects
